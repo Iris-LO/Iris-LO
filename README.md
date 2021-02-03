@@ -1,23 +1,20 @@
 ![Cover](https://github.com/Iris-LO/Iris-LO/blob/main/img/saisies2021.jpg)
 
-### Hi there 👋
+## Hi there 👋
 
-🔭 Actuellement je travaille sur deux projets : un projet perso et l'évolution de MeetMyPet qui actuellement est en ligne ici : http://ec2-100-26-211-150.compute-1.amazonaws.com:3000/ 
+#### I am currently working on the MeetMyPet application's evolution. 
+**MeetMyPet** is an application which allows to our pets to speak and meet eachother : the pet is at the heart of the functionalities.
 
+For now, the last version of the project is online here ➡ http://ec2-100-26-211-150.compute-1.amazonaws.com:3000/.
 
-🌱 J'apprend en ce moment **React** 👩‍💻
-
-
-🤝 **Je recherche un poste de développeur FullStack proche de Valence ou en full remote**
-
-
-💬 Une question ? Pourquoi ne pas la poser ? 😁😏
+➡ ⚙ *Javascript, Node.js, Express.Js, PostgreSQL, React, Redux, Sass, SemanticUi, LeaFlet API*
 
 
-📫 Et pour me contacter alors ? 💻 Un mail : iris.a.orsini@gmail.com ***vs*** un LinkedIn : https://www.linkedin.com/in/iris-l-orsini/ 
+#### At the moment, I'm learning ***React*** 👩‍💻
+I love learning 👩‍🎓 
+
+### 🤝 **I am looking for a full stack developer job, near Valence or full remote.**
 
 
-***Fun fact*** ➡ Mon entourage me voit comme une ***chamane*** : j'aime fabriquer mes propres produits maison et beauté et tester mes propres tambouilles (parfois des gros fails ❌😱😂 mais parfois des franches réussites 😏) 
-La dernière en date ? Une bouillote en graines de lin cousue main 🧵 😂 qui va dans la catégorie des belles réussites et validée par le conjoint sceptique ✅ 
-**multi-tâche** 😁
 
+💻 Do you have any questions ? Please contact me here : *https://www.linkedin.com/in/iris-l-orsini/*
