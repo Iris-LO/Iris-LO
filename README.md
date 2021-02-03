@@ -3,7 +3,7 @@
 🔭 Actuellement je travaille sur deux projets : un projet perso et l'évolution de MeetMyPet qui actuellement est en ligne ici : http://ec2-100-26-211-150.compute-1.amazonaws.com:3000/ 
 
 
-🌱 J'apprend **React** 👩‍💻
+🌱 J'apprend en ce moment **React** 👩‍💻
 
 
 🤝 **Je recherche un poste de développeur FullStack proche de Valence ou en full remote**
