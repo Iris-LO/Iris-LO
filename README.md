@@ -2,7 +2,8 @@
 
 <br> 
 <p> •
-  <a href="https://www.linkedin.com/in/iris-l-orsini/">My LinkedIn profile</a> •
+  <a href="https://www.linkedin.com/in/iris-l-orsini/">LinkedIn</a> •
+  <a href="iris-orsini.com">Portfolio</a>
 </p>
 
 I am a **fullstack developer** with a preference for **backend**. I love learning and I always try to do my best. 
@@ -11,7 +12,7 @@ I am a **fullstack developer** with a preference for **backend**. I love learnin
 * 🤝 **Currently looking for a job as fullstack developer, near Valence / Lyon / Grenoble / Avignon (France) or full remote.** 
 * 💼 Working on a personal website for a painter.
 
-Contact me here ➡ [LinkedIn](https://www.linkedin.com/in/iris-l-orsini/)
+Contact me here ➡ [LinkedIn](https://www.linkedin.com/in/iris-l-orsini/) or send me an <a href="mailto=pro@iris-orsini.com"> email</a>
 
 ## My Skills
 
