@@ -29,6 +29,6 @@ You can see the repo here : [MeetMyPet](https://github.com/Iris-LO/MeetMyPet)
 
 **MeetMyPet** is an application which allows to our pets to speak and meet eachother : the pet is at the heart of the functionalities.
 
-For now, the last version of the project is online here ➡ .http://ec2-52-203-21-206.compute-1.amazonaws.com:3000/.
+For now, the last version of the project is online here ➡ .http://ec2-54-197-74-229.compute-1.amazonaws.com:3000/.
 
 ➡ ⚙ *Javascript, NodeJs, ExpressJs, PostgreSQL, React, Redux, Sass, SemanticUi, LeaFlet API*
