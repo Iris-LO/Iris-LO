@@ -3,7 +3,7 @@
 <br> 
 <p> •
   <a href="https://www.linkedin.com/in/iris-l-orsini/">LinkedIn</a> •
-  <a href="iris-orsini.com">Portfolio</a>
+  <a href="http://www.iris-orsini.com">Portfolio</a>
 </p>
 
 I am a **fullstack developer** with a preference for **backend**. I love learning and I always try to do my best. 
