@@ -8,7 +8,7 @@
 I am a **fullstack developer** with a preference for **backend**. I love learning and I always try to do my best. 
 <br> When I am not programming, I need to go outside in Nature and I do lot of sports (fitness, musculation, running, skiing, ...)
 
-<br> 🤝 **I am currently working as software developer for Squadrone System** 
+<br> 🤝 **I am currently working as software developer for Darwin Drones** 
 <br> *I am also learning more about AWS*
 
 Contact me here ➡ [LinkedIn](https://www.linkedin.com/in/iris-l-orsini/) or send me an email : pro@iris-orsini.com
