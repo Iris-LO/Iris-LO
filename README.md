@@ -2,20 +2,20 @@
 
 <br> 
 <p> •
-  <a href="https://www.linkedin.com/in/iris-l-orsini/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/iris-orsini/">LinkedIn</a> •
 </p>
 
 I am a **fullstack developer** with a preference for **backend**. I love learning and I always try to do my best. 
-<br> When I am not programming, I need to go outside in Nature and I do lot of sports (fitness, musculation, running, skiing, ...)
+<br> When I am not programming, I need to go outside in Nature. I grow my own vegetables and I do lot of sports (fitness, musculation, running - I prefer trail -, skiing, ...). For now I'm learning to play the violin :)
 
 <br> 🤝 **I am currently working as software developer for Darwin Drones** 
-<br> *I am also learning more about AWS*
+<br> *I am also learning more about AWS and Angular*
 
-Contact me here ➡ [LinkedIn](https://www.linkedin.com/in/iris-l-orsini/) or send me an email : pro@iris-orsini.com
+Contact me here ➡ [LinkedIn](https://www.linkedin.com/in/iris-orsini/) or send me an email : pro@iris-orsini.com
 
 ## My Skills
 
-JavaScript, NodeJs, ExpressJs, SQL, PostgreSQL, HTML/CSS
+Typescript, Angular, JavaScript, NodeJs, ExpressJs, SQL, PostgreSQL, HTML/CSS
 <br> Visual Studio Code, Git, Trello, Linux, AWS
 <br> Scrum
 
